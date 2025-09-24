@@ -22,7 +22,7 @@ p {
     max-width: 90vw;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
     body {
         min-height: 95vh;
     }
