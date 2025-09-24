@@ -21,3 +21,12 @@ p {
     font-size: clamp(1rem, 8vw, 2rem);
     max-width: 90vw;
 }
+
+@media (max-width: 600px) {
+    body {
+        min-height: 95vh;
+    }
+    p {
+        font-weight: 700;
+    }
+}
